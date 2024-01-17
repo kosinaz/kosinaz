@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kosinaz
 - 👀 I’m interested in procedurally generated games
-- 🌱 I’m currently learning Godot 4
+- 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on
   - 2D casual games
   - roguelikes
