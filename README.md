@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on
   - 2D casual games
   - roguelikes
+    - An infinite map generator algorithm that is a composite of a large-scale, OpenSimplex2 noise-based, zeta-tessellated, Kruskal maze of roads, a dungeon generator for each cell of the maze, and a low-scale OpenSimplex2 noise-based height map to fill the empty parts of the cell with mountain ranges and vegetation.
+    - Multiple character control.
   - open source remakes of old games
+    - Warcry: Warcraft Orcs & Humans remake with proc-gen maps and web-play
+    - Ronny Wester's Magus remake
   - game jams
 - 📫 How to reach me
   - https://kosinaz.itch.io/
