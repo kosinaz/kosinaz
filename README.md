@@ -13,8 +13,5 @@
   - game jams
 - 📫 How to reach me
   - https://kosinaz.itch.io/
-
-<!---
-kosinaz/kosinaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- My pixel art portfolio
+  - https://github.com/kosinaz/portfolio
