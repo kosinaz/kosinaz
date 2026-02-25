@@ -15,5 +15,5 @@
   - https://kosinaz.itch.io/
 - My pixel art portfolio
   - https://github.com/kosinaz/portfolio
-- Game jams I was participating in
+- My jam games
   - https://kosinaz.github.io/
