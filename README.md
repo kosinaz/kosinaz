@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on
   - 2D casual games
   - roguelikes
-    - An infinite map generator algorithm that is a composite of a large-scale, OpenSimplex2 noise-based, zeta-tessellated, Kruskal maze of roads, a dungeon generator for each cell of the maze, and a low-scale OpenSimplex2 noise-based height map to fill the empty parts of the cell with mountain ranges and vegetation.
+    - An infinite map generator built on a fractal chunk hierarchy. Each parent level applies an OpenSimplex noise–driven maze, generated via Prim's algorithm, to define the road topology. Leaf-level cells host procedurally generated dungeons, while a finer-scale OpenSimplex-based heightmap populates the remaining space with terrain features such as mountain ranges and vegetation.
     - Multiple character control.
     - 3D and 4D maps.
   - open source remakes of old games
